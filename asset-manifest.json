@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/boilerplate-gen/static/css/main.fe8c8320.chunk.css",
-    "main.js": "/boilerplate-gen/static/js/main.4353220f.chunk.js",
-    "main.js.map": "/boilerplate-gen/static/js/main.4353220f.chunk.js.map",
+    "main.js": "/boilerplate-gen/static/js/main.77904beb.chunk.js",
+    "main.js.map": "/boilerplate-gen/static/js/main.77904beb.chunk.js.map",
     "runtime-main.js": "/boilerplate-gen/static/js/runtime-main.2b378a84.js",
     "runtime-main.js.map": "/boilerplate-gen/static/js/runtime-main.2b378a84.js.map",
     "xlsx.js": "/boilerplate-gen/static/js/xlsx.39b18e3d.chunk.js",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.2b378a84.js",
     "static/js/3.5a9e9ac4.chunk.js",
     "static/css/main.fe8c8320.chunk.css",
-    "static/js/main.4353220f.chunk.js"
+    "static/js/main.77904beb.chunk.js"
   ]
 }
