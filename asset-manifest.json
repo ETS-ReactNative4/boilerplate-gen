@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/boilerplate-gen/static/css/main.da96e569.chunk.css",
-    "main.js": "/boilerplate-gen/static/js/main.c5a3ac78.chunk.js",
-    "main.js.map": "/boilerplate-gen/static/js/main.c5a3ac78.chunk.js.map",
+    "main.js": "/boilerplate-gen/static/js/main.51cc00a4.chunk.js",
+    "main.js.map": "/boilerplate-gen/static/js/main.51cc00a4.chunk.js.map",
     "runtime-main.js": "/boilerplate-gen/static/js/runtime-main.e3a667df.js",
     "runtime-main.js.map": "/boilerplate-gen/static/js/runtime-main.e3a667df.js.map",
     "xlsx.js": "/boilerplate-gen/static/js/xlsx.f2c49321.chunk.js",
@@ -20,25 +20,26 @@
     "static/js/3.f6aefc66.chunk.js.LICENSE.txt": "/boilerplate-gen/static/js/3.f6aefc66.chunk.js.LICENSE.txt",
     "static/js/5.b7538156.chunk.js.LICENSE.txt": "/boilerplate-gen/static/js/5.b7538156.chunk.js.LICENSE.txt",
     "static/js/6.436b8fab.chunk.js.LICENSE.txt": "/boilerplate-gen/static/js/6.436b8fab.chunk.js.LICENSE.txt",
-    "static/media/Pytorch.a30886e6.png": "/boilerplate-gen/static/media/Pytorch.a30886e6.png",
+    "static/media/ReactNative.271012e3.jpg": "/boilerplate-gen/static/media/ReactNative.271012e3.jpg",
     "static/media/System Architecture.44fe7eab.png": "/boilerplate-gen/static/media/System Architecture.44fe7eab.png",
-    "static/media/amcharts.0d2e0eb2.png": "/boilerplate-gen/static/media/amcharts.0d2e0eb2.png",
+    "static/media/angular.7864be76.jpg": "/boilerplate-gen/static/media/angular.7864be76.jpg",
     "static/media/doc.9bd123b3.jpeg": "/boilerplate-gen/static/media/doc.9bd123b3.jpeg",
+    "static/media/fastapi.93ac981d.jpg": "/boilerplate-gen/static/media/fastapi.93ac981d.jpg",
     "static/media/flask.4453efd7.png": "/boilerplate-gen/static/media/flask.4453efd7.png",
-    "static/media/materialui.a2deaf3c.png": "/boilerplate-gen/static/media/materialui.a2deaf3c.png",
+    "static/media/flutter.2a4266ce.jpeg": "/boilerplate-gen/static/media/flutter.2a4266ce.jpeg",
+    "static/media/mySQL.1954b425.jpg": "/boilerplate-gen/static/media/mySQL.1954b425.jpg",
     "static/media/qg.c65c2909.png": "/boilerplate-gen/static/media/qg.c65c2909.png",
     "static/media/qg1.8dc5525d.jpeg": "/boilerplate-gen/static/media/qg1.8dc5525d.jpeg",
     "static/media/reactjs.56db227c.png": "/boilerplate-gen/static/media/reactjs.56db227c.png",
     "static/media/robot1.60bd05df.png": "/boilerplate-gen/static/media/robot1.60bd05df.png",
-    "static/media/tensorflow.3a11546f.png": "/boilerplate-gen/static/media/tensorflow.3a11546f.png",
+    "static/media/springboot.49b3ec17.png": "/boilerplate-gen/static/media/springboot.49b3ec17.png",
     "static/media/trial.8fd4fc70.svg": "/boilerplate-gen/static/media/trial.8fd4fc70.svg",
-    "static/media/twilio.48e8f7ca.jpg": "/boilerplate-gen/static/media/twilio.48e8f7ca.jpg",
     "static/media/whatsapp.c262910f.png": "/boilerplate-gen/static/media/whatsapp.c262910f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e3a667df.js",
     "static/js/3.f6aefc66.chunk.js",
     "static/css/main.da96e569.chunk.css",
-    "static/js/main.c5a3ac78.chunk.js"
+    "static/js/main.51cc00a4.chunk.js"
   ]
 }
